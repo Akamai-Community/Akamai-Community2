@@ -2,7 +2,7 @@
 
 _This space shares and highlights examples for use at your discretion. This code isn’t subject to the same review and testing that production code is in the [Akamai Official org](https://github.com/akamai)_.
 
-Explain here why this repo/org exists and what you'd like folks to gain by being here.
+The Akamai Community org is here to highlight helpful examples and cool community projects. 
   
     
 ## How do I get started?
@@ -10,8 +10,6 @@ You'll find three areas to dive into here at the Akamai Community org.
 - Code examples for developer support
 - Playful portfolio-style projects([ex:Voxel 3D]())
 - Community highlighted projects–self-nominations and submissions welcome!
-
-Take a look at (link to a great example) or (another example link here), and find the full list in [here]().
 
   
 ## Code of Conduct
@@ -40,13 +38,13 @@ feel free to propose changes to this document in a pull request.
 Links to tutorials, docs, official company support, or contributors who can help.
 
 ### Our team
-List folks here from the team who will be helpful, whether in GH interactions, via email, or your Slack, and the best way to contact them.
 ![The team](https://cdn.abcotvs.com/dip/images/514736_021215-cc-penguin-sweaters-img.jpg?w=1600)
 
-- Chuck
-- Julia
-- Austin
-- Jesse
+If you have questions or concerns, let us know on Twitter. 
+
+- [Chuck, Director of Developer Advocacy](https://twitter.com/chuckstar)
+- [Austin, Developer Advocate](https://twitter.com/heyAustinGil)
+- [Mike, Developer Advocate](https://twitter.com/securitylevelup)
 
 ---------
 # [Join]() the Akamai Community Slack!
