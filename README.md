@@ -35,7 +35,10 @@ feel free to propose changes to this document in a pull request.
 
   
 ## Where can I get more help, if I need it?
-Links to tutorials, docs, official company support, or contributors who can help.
+- [API Docs](https://techdocs.akamai.com/home/page/products-tools-a-z?sort=api)
+-[ Product Docs](https://techdocs.akamai.com/home/page/products-tools-a-z)
+- [Developer Tools](https://techdocs.akamai.com/developer/docs)
+- 
 
 ### Our team
 ![The team](https://cdn.abcotvs.com/dip/images/514736_021215-cc-penguin-sweaters-img.jpg?w=1600)
@@ -45,9 +48,14 @@ If you have questions or concerns, let us know on Twitter.
 - [Chuck, Director of Developer Advocacy](https://twitter.com/chuckstar)
 - [Austin, Developer Advocate](https://twitter.com/heyAustinGil)
 - [Mike, Developer Advocate](https://twitter.com/securitylevelup)
+- Jessica Mora Capuano, Community Manager
+- Julia Tetrud, Senior Content Manager
+- Addison Snidle, Video Production Manager
+- Rachel Ho, Marketing Strategy Manager
+- Lucy Lee, Program Manager
 
 ---------
-# [Join]() the Akamai Community Slack!
+# [Join](https://join.slack.com/t/akamai-serverless/shared_invite/zt-12vdxml0j-zsBY~9msjsldiDQJP~rkCA) the Akamai Community Slack!
 Hop on to get connected to devs sharing and troubleshooting projects related to the Akamai ecosystem
   - Get help regarding any issue you are facing.
   - Make new friends, working in the same space
