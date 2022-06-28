@@ -30,7 +30,7 @@ feel free to propose changes to this document in a pull request.
 
 ### Issues and Pull Requests
 
-- If you're not sure about adding something, [open an issue]() to discuss it.
+- If you're not sure about adding something, [open an issue](https://github.com/Akamai-Community/Akamai-Community/issues/new/choose) to discuss it.
 - Feel free to open a Pull Request early so that a discussion can be had as changes are developed.
 
   
@@ -54,5 +54,5 @@ Hop on to get connected to devs sharing and troubleshooting projects related to 
   - Find neat projects to contribute to, or help others with their issues
 
 If any of this information confusing, incorrect, or incomplete, feel free to
-[open an issue]()
+[open an issue](https://github.com/Akamai-Community/Akamai-Community/issues/new/choose)
 for help.
